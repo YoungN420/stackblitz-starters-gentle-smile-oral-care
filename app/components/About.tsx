@@ -47,19 +47,21 @@ export default function About() {
             </h2>
 
             <p className="about-lead">
-              Gentle Smiles Oral Care is a dental clinic serving
-              patients in Equator, Meru and the surrounding
-              community.
+              Gentle Smiles Oral Care (GSOC)is a dental clinic located
+              at Equator Stage,Meru but serve beyond Meru County and Kenya at large
+
             </p>
 
             <p>
-              Our approach is centred on providing accessible,
-              comprehensive dental care while making every visit
-              as comfortable and straightforward as possible.
-              Whether you need preventive care, restorative
-              treatment, cosmetic dentistry, orthodontic care,
-              implants or oral surgery, our services are designed
-              to support your individual dental needs.
+              GSOC was founded on a simple belief; going to the dentist
+              should feel comfortable, reassuring and personal in a 
+              welcoming environment where every patient from wisdom 
+              teeth to the elderly is heard,respected and cared for.
+              wether you are here for routine cleaning, a painful tooth,
+              filing, braces or replacing a missing tooth, we are here 
+              to make your dental experience more comfortable by providing
+              clear guidance,most gentle procedures and professional care.
+              
             </p>
 
             <p>

@@ -38,7 +38,7 @@ export default function WhyUs() {
             </div>
 
             <h2>
-              More than treatment.
+              Most Gentle Oral Care.
               <br />
               <em>Care you can trust.</em>
             </h2>

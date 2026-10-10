@@ -9,7 +9,6 @@ export const metadata: Metadata = {
 
   description:
     "Gentle Smiles Oral Care provides comprehensive dental care in Equator, Meru, Kenya, including preventive, restorative, cosmetic, orthodontic, implant and oral surgical care.",
-
   keywords: [
     "Gentle Smiles Oral Care",
     "dentist in Meru",

@@ -6,7 +6,7 @@ const featuredServices = [
     category: "PREVENTIVE",
     title: "Dental Cleaning",
     description:
-      "Professional cleaning and preventive care to help maintain healthy teeth and gums.",
+      "Professional cleaning and preventive care to help maintain healthy teeth and gums at GSOC,Meru.",
   },
   {
     number: "02",
@@ -18,9 +18,9 @@ const featuredServices = [
   {
     number: "03",
     category: "COSMETIC",
-    title: "Teeth Whitening",
+    title: "Teeth Cleaning and Whitening",
     description:
-      "Cosmetic whitening designed to improve the appearance of your natural smile.",
+      "Having tough stains on your teeth?Worry less.Restore a confident smile through proffessional cleaning and teeth whitening.",
   },
   {
     number: "04",

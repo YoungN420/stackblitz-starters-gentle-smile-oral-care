@@ -26,15 +26,17 @@ export default function Hero() {
           </div>
 
           <h1>
-            A healthier smile
+            Experience Kenya's Most
             <br />
-            starts with <em>care.</em>
+            Gentle Oral <em>care.</em>
           </h1>
 
           <p className="hero-description">
-            Comprehensive dental care for children and adults,
-            delivered with comfort, precision and a patient-first
-            approach.
+            A gentle, calm and proffessional dental care for you
+            and your family-right here at Equator Stage,Meru.From
+            routine oral check ups to the most comfortable treatment
+            that restores your smiles, we make every visit feel 
+            calmer,cleaner and more personalized.
           </p>
 
           <div className="hero-actions">

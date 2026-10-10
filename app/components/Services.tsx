@@ -133,6 +133,39 @@ export default function Services() {
             </article>
           ))}
         </div>
+                {/* Real clinic photography */}
+                <div className="services-feature-image">
+          <div className="services-feature-photo">
+            <img
+              src="/image/IMG-20260927-WAOO84.jpg"
+              alt="A dentist providing dental care to a patient at Gentle Smiles Oral Care"
+            />
+          </div>
+
+          <div className="services-feature-copy">
+            <span className="eyebrow">
+              <span />
+              CARE YOU CAN TRUST
+            </span>
+
+            <h3>
+              A gentler approach
+              <br />
+              to <em>dental care.</em>
+            </h3>
+
+            <p>
+              At Gentle Smiles Oral Care, we focus on helping every
+              patient feel comfortable while receiving the dental
+              care they need.
+            </p>
+
+            <Link href="#appointment" className="button">
+              Book an Appointment
+              <span>→</span>
+            </Link>
+          </div>
+        </div>
 
         {/* Additional services */}
         <div className="services-bottom">
@@ -147,17 +180,8 @@ export default function Services() {
               Gum care · Dental jewellery · Emergency dental care
             </p>
           </div>
+          <Link href="#appointment" className="button services-button" > Book an Appointment <span>→</span> </Link> </div> </div> </section>
 
-          <Link
-            href="#appointment"
-            className="button services-button"
-          >
-            Book an Appointment
-            <span>→</span>
-          </Link>
-        </div>
-
-      </div>
-    </section>
+    
   );
 }

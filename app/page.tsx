@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/About";
+import ClinicGallery from "./components/ClinicGallery";
 import Services from "./components/Services";
 import WhyUs from "./components/WhyUs";
 import Appointment from "./components/Appointment";
@@ -16,6 +17,8 @@ export default function Home() {
       <Hero />
 
       <About />
+
+      <ClinicGallery />
 
       <Services />
 

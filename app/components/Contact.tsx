@@ -10,7 +10,7 @@ export default function Contact() {
             </div>
 
             <h2>
-              Let's take care
+              Let&apos;s take care
               <br />
               of your <em>smile.</em>
             </h2>

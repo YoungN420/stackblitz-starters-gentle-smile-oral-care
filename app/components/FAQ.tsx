@@ -70,7 +70,7 @@ export default function FAQ() {
             <h2>
               Questions?
               <br />
-              <em>We've got answers.</em>
+              <em>We&apos;ve got answers.</em>
             </h2>
 
             <p>

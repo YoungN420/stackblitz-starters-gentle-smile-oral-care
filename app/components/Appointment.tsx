@@ -166,7 +166,7 @@ Thank you.
                 <option>Dental Implants</option>
                 <option>Dental Veneers</option>
                 <option>Braces & Orthodontics</option>
-                <option>Children's Dentistry</option>
+                <option>Childrens Dentistry</option>
                 <option>Gum Care</option>
                 <option>Oral Surgery</option>
                 <option>Emergency Dental Care</option>

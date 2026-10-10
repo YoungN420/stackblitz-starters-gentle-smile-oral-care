@@ -26,7 +26,7 @@ export default function Hero() {
           </div>
 
           <h1>
-            Experience Kenya's Most
+            Experience Kenya&apos;s Most
             <br />
             Gentle Oral <em>care.</em>
           </h1>

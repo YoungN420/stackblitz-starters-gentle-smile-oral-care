@@ -142,8 +142,7 @@ export default function Services() {
 
             <p>
               Dental consultations · Tooth extraction · Dental
-              fillin
-                gs · Crowns & bridges · Children's dentistry ·
+              fillings · Crowns & bridges · Children dentistry ·
               Gum care · Dental jewellery · Emergency dental care
             </p>
           </div>
